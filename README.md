@@ -1,16 +1,16 @@
-### Hi there 👋
+Skills
+JavaScript PHP TypeScript C++ HTML5 Vue Nuxtjs Angular JQuery CSS3 Sass TailwindCSS Bootstrap Material UI Redux Webpack Babel NodeJS Express NestJS Oracle MongoDB MySQL Figma Uniswap MetaMask Sushiswap Truffle Hardhat IPFS Ethereum Polygon Arbitrum Avalanche Web3Js
 
-<!--
-**DebruCot/DebruCot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Socials
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Badges
+My GitHub Stats
+
+killer7799's GitHub stats
+
+
+
+GitHub Commits Graph
+
+Top Languages
